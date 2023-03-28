@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "6422c5d0b868453a3479d0a5"
+  },
+  "codigo": 1,
+  "nombre": "Administracion",
+  "presupuesto": 67000
+},{
+  "_id": {
+    "$oid": "6422c5d0b868453a3479d0a6"
+  },
+  "codigo": 2,
+  "nombre": "Direccion",
+  "presupuesto": 120000
+},{
+  "_id": {
+    "$oid": "6422c5d0b868453a3479d0a7"
+  },
+  "codigo": 3,
+  "nombre": "Logisitca",
+  "presupuesto": 25000
+},{
+  "_id": {
+    "$oid": "6422c5d0b868453a3479d0a8"
+  },
+  "codigo": 4,
+  "nombre": "Marketing",
+  "presupuesto": 45000
+}]
