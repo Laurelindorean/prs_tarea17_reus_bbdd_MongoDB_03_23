@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6422c051b868453a3479d09d"
+  },
+  "codigo": 1,
+  "nombre": "AMD"
+},{
+  "_id": {
+    "$oid": "6422c051b868453a3479d09e"
+  },
+  "codigo": 2,
+  "nombre": "Nvidia"
+},{
+  "_id": {
+    "$oid": "6422c051b868453a3479d09f"
+  },
+  "codigo": 3,
+  "nombre": "Razer"
+},{
+  "_id": {
+    "$oid": "6422c051b868453a3479d0a0"
+  },
+  "codigo": 4,
+  "nombre": "Hyper X"
+}]
