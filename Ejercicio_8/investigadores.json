@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "64289d56e08692dcf9dfb251"
+  },
+  "dni": "47557895A",
+  "nomApels": "Palmira Romia",
+  "FK_Facultad": {
+    "$oid": "64289c80e08692dcf9dfb250"
+  }
+},{
+  "_id": {
+    "$oid": "64289d56e08692dcf9dfb252"
+  },
+  "dni": "47244445R",
+  "nomApels": "Miguel Sastre",
+  "FK_Facultad": {
+    "$oid": "64289c80e08692dcf9dfb24f"
+  }
+},{
+  "_id": {
+    "$oid": "64289d86e08692dcf9dfb253"
+  },
+  "dni": "41145788S",
+  "nomApels": "Santiago Romia",
+  "FK_Facultad": {
+    "$oid": "64289c80e08692dcf9dfb24d"
+  }
+},{
+  "_id": {
+    "$oid": "64289d86e08692dcf9dfb254"
+  },
+  "dni": "147889552T",
+  "nomApels": "Encarna Segura",
+  "FK_Facultad": {
+    "$oid": "64289c80e08692dcf9dfb24e"
+  }
+}]

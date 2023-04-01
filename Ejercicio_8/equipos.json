@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "64289dd5e08692dcf9dfb255"
+  },
+  "numSerie": 37,
+  "nombre": "TeamScience",
+  "FK_Facultad": {
+    "$oid": "64289c80e08692dcf9dfb24f"
+  }
+},{
+  "_id": {
+    "$oid": "64289deae08692dcf9dfb256"
+  },
+  "numSerie": 505,
+  "nombre": "TeamMed",
+  "FK_Facultad": {
+    "$oid": "64289c80e08692dcf9dfb24d"
+  }
+},{
+  "_id": {
+    "$oid": "64289e08e08692dcf9dfb257"
+  },
+  "numSerie": 101,
+  "nombre": "Counciler",
+  "FK_Facultad": {
+    "$oid": "64289c80e08692dcf9dfb24e"
+  }
+},{
+  "_id": {
+    "$oid": "64289e17e08692dcf9dfb258"
+  },
+  "numSerie": 410,
+  "nombre": "The mind",
+  "FK_Facultad": {
+    "$oid": "64289c80e08692dcf9dfb250"
+  }
+}]

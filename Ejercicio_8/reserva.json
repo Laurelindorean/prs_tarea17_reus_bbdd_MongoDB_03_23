@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "64289e86e08692dcf9dfb259"
+  },
+  "PK_FK_dni": "47557895A",
+  "PK_FK_numSerie": 410,
+  "comienzo": "2020-02-10",
+  "fin": "2023-03-31"
+},{
+  "_id": {
+    "$oid": "64289eb7e08692dcf9dfb25a"
+  },
+  "PK_FK_dni": "47244445R",
+  "PK_FK_numSerie": 37,
+  "comienzo": "2021-10-10",
+  "fin": "2022-03-14"
+},{
+  "_id": {
+    "$oid": "64289ee0e08692dcf9dfb25b"
+  },
+  "PK_FK_dni": "41145788S",
+  "PK_FK_numSerie": 505,
+  "comienzo": "2019-01-25",
+  "fin": "2023-11-20"
+},{
+  "_id": {
+    "$oid": "64289f1ce08692dcf9dfb25c"
+  },
+  "PK_FK_dni": "147889552T",
+  "PK_FK_numSerie": 201,
+  "comienzo": "2005-12-25",
+  "fin": "2015-01-20"
+}]
