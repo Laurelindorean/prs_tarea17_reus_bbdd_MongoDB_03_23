@@ -5,7 +5,9 @@
   "numReferencia": "A2D1",
   "contenido": "Patatas",
   "valor": 25,
-  "FK_almacen": 2
+  "FK_almacen": {
+    "$oid": "6422c8a7b868453a3479d0ae"
+  }
 },{
   "_id": {
     "$oid": "6422c9c2b868453a3479d0b2"
@@ -13,7 +15,9 @@
   "numReferencia": "B4D2",
   "contenido": "Melocotones",
   "valor": 35,
-  "Fk_almacen": 3
+  "Fk_almacen": {
+    "$oid": "6422c8a7b868453a3479d0af"
+  }
 },{
   "_id": {
     "$oid": "6422c9c2b868453a3479d0b3"
@@ -21,7 +25,9 @@
   "numReferencia": "D5Z1",
   "contenido": "Peras",
   "valor": 10,
-  "FK_almacen": 3
+  "FK_almacen": {
+    "$oid": "6422c8a7b868453a3479d0af"
+  }
 },{
   "_id": {
     "$oid": "6422c9c2b868453a3479d0b4"
@@ -29,5 +35,7 @@
   "numReferencia": "R7S9",
   "contenido": "Mandarinas",
   "valor": 30,
-  "FK_almacen": 4
+  "FK_almacen": {
+    "$oid": "6422c8a7b868453a3479d0b0"
+  }
 }]
