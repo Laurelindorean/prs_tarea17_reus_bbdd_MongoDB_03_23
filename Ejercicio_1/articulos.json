@@ -5,7 +5,9 @@
   "codigo": 1,
   "nombre": "Ryzen 7 5700X",
   "precio": 203.39,
-  "FK_fabricante": 1
+  "FK_fabricante": {
+    "$oid": "6422c051b868453a3479d09d"
+  }
 },{
   "_id": {
     "$oid": "6422c2dbb868453a3479d0a2"
@@ -13,7 +15,9 @@
   "codigo": 2,
   "nombre": "Razer Kraken V3",
   "precio": 140.99,
-  "FK_fabricante": 3
+  "FK_fabricante": {
+    "$oid": "6422c051b868453a3479d09f"
+  }
 },{
   "_id": {
     "$oid": "6422c2dbb868453a3479d0a3"
@@ -21,7 +25,9 @@
   "codigo": 3,
   "nombre": "RTX A2000",
   "precio": 825.99,
-  "FK_fabricante": 2
+  "FK_fabricante": {
+    "$oid": "6422c051b868453a3479d09e"
+  }
 },{
   "_id": {
     "$oid": "6422c2dbb868453a3479d0a4"
@@ -29,5 +35,7 @@
   "codigo": 4,
   "nombre": "HyperX QuadCast",
   "precio": 118.99,
-  "FK_fabricante": 4
+  "FK_fabricante": {
+    "$oid": "6422c051b868453a3479d0a0"
+  }
 }]
