@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "64288674e08692dcf9dfb23d"
+  },
+  "codigo": 101,
+  "nomApels": "Palmira Romia"
+},{
+  "_id": {
+    "$oid": "6428867ae08692dcf9dfb23e"
+  },
+  "codigo": 45,
+  "nomApels": "Encarna Segura"
+},{
+  "_id": {
+    "$oid": "6428867ee08692dcf9dfb23f"
+  },
+  "codigo": 114,
+  "nomApels": "Santiago Romia"
+},{
+  "_id": {
+    "$oid": "64288683e08692dcf9dfb240"
+  },
+  "codigo": 210,
+  "nomApels": "Carlos Romia"
+}]

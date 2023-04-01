@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "642899fbe08692dcf9dfb245"
+  },
+  "codigo": 211,
+  "piso": 1
+},{
+  "_id": {
+    "$oid": "64289a03e08692dcf9dfb246"
+  },
+  "codigo": 212,
+  "piso": 1
+},{
+  "_id": {
+    "$oid": "64289a0ae08692dcf9dfb247"
+  },
+  "codigo": 213,
+  "piso": 2
+},{
+  "_id": {
+    "$oid": "64289a11e08692dcf9dfb248"
+  },
+  "codigo": 215,
+  "piso": 2
+}]

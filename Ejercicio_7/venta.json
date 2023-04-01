@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "64289a8fe08692dcf9dfb249"
+  },
+  "PK_FK_cajero": {
+    "$oid": "64288674e08692dcf9dfb23d"
+  },
+  "PK_FK_maquina": {
+    "$oid": "64289a03e08692dcf9dfb246"
+  },
+  "PK_FK_producto": {
+    "$oid": "642886c2e08692dcf9dfb242"
+  }
+},{
+  "_id": {
+    "$oid": "64289abae08692dcf9dfb24a"
+  },
+  "PK_FK_cajero": {
+    "$oid": "6428867ee08692dcf9dfb23f"
+  },
+  "PK_FK_maquina": {
+    "$oid": "642899fbe08692dcf9dfb245"
+  },
+  "PK_FK_producto": {
+    "$oid": "642886d3e08692dcf9dfb243"
+  }
+},{
+  "_id": {
+    "$oid": "64289ae0e08692dcf9dfb24b"
+  },
+  "PK_FK_cajero": {
+    "$oid": "6428867ae08692dcf9dfb23e"
+  },
+  "PK_FK_maquina": {
+    "$oid": "64289a11e08692dcf9dfb248"
+  },
+  "PK_FK_producto": {
+    "$oid": "642886b1e08692dcf9dfb241"
+  }
+},{
+  "_id": {
+    "$oid": "64289b0ce08692dcf9dfb24c"
+  },
+  "PK_FK_cajero": {
+    "$oid": "64288683e08692dcf9dfb240"
+  },
+  "PK_FK_maquina": {
+    "$oid": "64289a0ae08692dcf9dfb247"
+  },
+  "PK_FK_producto": {
+    "$oid": "642886e6e08692dcf9dfb244"
+  }
+}]

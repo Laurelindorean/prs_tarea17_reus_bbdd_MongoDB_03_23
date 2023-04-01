@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "642886b1e08692dcf9dfb241"
+  },
+  "codigo": 10,
+  "nombre": "Manzanas",
+  "precio": 5
+},{
+  "_id": {
+    "$oid": "642886c2e08692dcf9dfb242"
+  },
+  "codigo": 13,
+  "nombre": "Cebollas",
+  "precio": 10
+},{
+  "_id": {
+    "$oid": "642886d3e08692dcf9dfb243"
+  },
+  "codigo": 18,
+  "nombre": "Pizza",
+  "precio": 20
+},{
+  "_id": {
+    "$oid": "642886e6e08692dcf9dfb244"
+  },
+  "codigo": 61,
+  "nombre": "Leche",
+  "precio": 35
+}]
