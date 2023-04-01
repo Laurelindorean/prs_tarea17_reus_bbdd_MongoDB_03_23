@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "642878efe08692dcf9dfb220"
+  },
+  "codigo": 1,
+  "nombre": "El Señor de los Anillos",
+  "calificacionEdad": 12
+},{
+  "_id": {
+    "$oid": "64287988e08692dcf9dfb221"
+  },
+  "codigo": 2,
+  "nombre": "Matrix",
+  "calificacionEdad": 12
+},{
+  "_id": {
+    "$oid": "64287988e08692dcf9dfb222"
+  },
+  "codigo": 3,
+  "nombre": "Memento",
+  "calificacionEdad": 14
+},{
+  "_id": {
+    "$oid": "64287988e08692dcf9dfb223"
+  },
+  "codigo": 4,
+  "nombre": "Ice Age",
+  "calificacionEdad": 3
+}]
