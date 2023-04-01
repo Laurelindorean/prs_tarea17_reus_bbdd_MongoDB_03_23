@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6428a02de08692dcf9dfb25d"
+  },
+  "dni": "47889451A",
+  "nomApels": "Palmira Romia"
+},{
+  "_id": {
+    "$oid": "6428a02de08692dcf9dfb25e"
+  },
+  "dni": "14479956T",
+  "nomApels": "Miguel Sastre"
+},{
+  "_id": {
+    "$oid": "6428a02de08692dcf9dfb25f"
+  },
+  "dni": "14778865S",
+  "nomApels": "Santiago Romia"
+},{
+  "_id": {
+    "$oid": "6428a02de08692dcf9dfb260"
+  },
+  "dni": "5877789S",
+  "nomApels": "EncarnaSegura"
+}]

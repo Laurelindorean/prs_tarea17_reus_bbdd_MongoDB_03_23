@@ -1,0 +1,17 @@
+[{
+  "_id": "AB",
+  "nombre": "Numero PI",
+  "horas": 250
+},{
+  "_id": "CD",
+  "nombre": "Clonacion",
+  "horas": 554
+},{
+  "_id": "TW",
+  "nombre": "ID Research",
+  "horas": 120
+},{
+  "_id": "FD",
+  "nombre": "BloodTest",
+  "horas": 400
+}]

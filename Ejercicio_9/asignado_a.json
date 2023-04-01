@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "6428a15ce08692dcf9dfb261"
+  },
+  "PK_FK_cientifico": {
+    "$oid": "6428a02de08692dcf9dfb25d"
+  },
+  "PK_FK_proyecto": "TW"
+},{
+  "_id": {
+    "$oid": "6428a168e08692dcf9dfb262"
+  },
+  "PK_FK_cientifico": {
+    "$oid": "6428a02de08692dcf9dfb25f"
+  },
+  "PK_FK_proyecto": "CD"
+},{
+  "_id": {
+    "$oid": "6428a176e08692dcf9dfb263"
+  },
+  "PK_FK_cientifico": {
+    "$oid": "6428a02de08692dcf9dfb25e"
+  },
+  "PK_FK_proyecto": "FD"
+},{
+  "_id": {
+    "$oid": "6428a182e08692dcf9dfb264"
+  },
+  "PK_FK_cientifico": {
+    "$oid": "6428a02de08692dcf9dfb260"
+  },
+  "PK_FK_proyecto": "AB"
+}]
