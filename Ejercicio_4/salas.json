@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "64287a3fe08692dcf9dfb224"
+  },
+  "codigo": 1,
+  "nombre": "Ocine",
+  "FK_pelicula": {
+    "$oid": "64287988e08692dcf9dfb221"
+  }
+},{
+  "_id": {
+    "$oid": "64287a5be08692dcf9dfb225"
+  },
+  "codigo": 2,
+  "nombre": "Yelmo",
+  "FK_pelicula": {
+    "$oid": "642878efe08692dcf9dfb220"
+  }
+},{
+  "_id": {
+    "$oid": "64287a76e08692dcf9dfb226"
+  },
+  "codigo": 3,
+  "nombre": "La Maquinista",
+  "FK_pelicula": {
+    "$oid": "64287988e08692dcf9dfb222"
+  }
+},{
+  "_id": {
+    "$oid": "64287aa2e08692dcf9dfb227"
+  },
+  "codigo": 4,
+  "nombre": "JCA",
+  "FK_pelicula": {
+    "$oid": "64287988e08692dcf9dfb223"
+  }
+}]
