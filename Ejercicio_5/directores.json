@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "64287bffe08692dcf9dfb22c"
+  },
+  "dni": "47588972A",
+  "nomApels": "Palmira Romia",
+  "FK_despacho": {
+    "$oid": "64287b99e08692dcf9dfb22b"
+  },
+  "FK_DNIJefe": ""
+},{
+  "_id": {
+    "$oid": "64287c20e08692dcf9dfb22d"
+  },
+  "dni": "47117852C",
+  "nomApels": "Miguel Sastre",
+  "FK_despacho": {
+    "$oid": "64287b85e08692dcf9dfb229"
+  },
+  "FK_DNIJefe": "47588972A"
+},{
+  "_id": {
+    "$oid": "64287c60e08692dcf9dfb22e"
+  },
+  "dni": "48792242D",
+  "nomApels": "Encarna Segura",
+  "FK_despacho": {
+    "$oid": "64287b7be08692dcf9dfb228"
+  },
+  "FK_DNIJefe": "47588972A"
+},{
+  "_id": {
+    "$oid": "64287cade08692dcf9dfb22f"
+  },
+  "dni": "14788975T",
+  "nomApels": "Santiago Romia",
+  "FK_despacho": {
+    "$oid": "64287b8ee08692dcf9dfb22a"
+  },
+  "FK_DNIJefe": "47588972A"
+}]
