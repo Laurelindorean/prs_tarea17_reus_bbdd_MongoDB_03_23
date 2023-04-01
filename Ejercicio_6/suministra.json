@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "6428845de08692dcf9dfb235"
+  },
+  "FK_CodigoPieza": {
+    "$oid": "64288370e08692dcf9dfb232"
+  },
+  "FK_idProveedor": 172,
+  "precio": 15
+},{
+  "_id": {
+    "$oid": "642884f2e08692dcf9dfb236"
+  },
+  "FK_CodigoPieza": {
+    "$oid": "6428835de08692dcf9dfb231"
+  },
+  "FK_idProveedor": 235,
+  "precio": 5
+},{
+  "_id": {
+    "$oid": "64288512e08692dcf9dfb237"
+  },
+  "FK_CodigoPieza": {
+    "$oid": "64288398e08692dcf9dfb234"
+  },
+  "FK_idProveedor": 172,
+  "precio": 25
+},{
+  "_id": {
+    "$oid": "6428852ae08692dcf9dfb238"
+  },
+  "FK_CodigoPieza": {
+    "$oid": "6428837de08692dcf9dfb233"
+  },
+  "FK_idProveedor": 201,
+  "precio": 150
+}]

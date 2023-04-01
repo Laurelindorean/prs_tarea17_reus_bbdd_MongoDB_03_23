@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6428835de08692dcf9dfb231"
+  },
+  "codigo": 101,
+  "nombre": "tornillo"
+},{
+  "_id": {
+    "$oid": "64288370e08692dcf9dfb232"
+  },
+  "codigo": 102,
+  "nombre": "Destornillador"
+},{
+  "_id": {
+    "$oid": "6428837de08692dcf9dfb233"
+  },
+  "codigo": 155,
+  "nombre": "Taladro"
+},{
+  "_id": {
+    "$oid": "64288398e08692dcf9dfb234"
+  },
+  "codigo": 201,
+  "nombre": "Llave inglesa"
+}]
